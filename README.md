@@ -54,6 +54,7 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 
 ## Challenges
+The biggest challenge for me this time around was keeping my head straight what with all the files and content per file. As we are quickly going through the class, I am often needing to reference past assignments to get an idea of where to go with things. With all the navigation and screen switching I got headaches. It is also frustrating to misclick and have to "shoo away" unwanted files. 
 
 ## Usage
 
