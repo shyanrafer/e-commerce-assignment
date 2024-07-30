@@ -54,11 +54,13 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 
 ## Challenges
-The biggest challenge for me this time around was keeping my head straight what with all the files and content per file. As we are quickly going through the class, I am often needing to reference past assignments to get an idea of where to go with things. With all the navigation and screen switching I got headaches. It is also frustrating to misclick and have to "shoo away" unwanted files. 
+This project had many files to navigate through as well as loads of content per file. With that, I was unable to accomplish all the tasks within the week. This is an assignment I will continue to work on until I complete it for it'd be great practice writing routes and navgating the file structure of a complex site. The increasing amount of files and content per file is increasingly daunting. I am looking forward to being out of my comfort zone as that means I am learning. 
 
 ## Usage
+The project isn't quite comeplete so no usage instructiosn to provide.
 
 ## Contributing
+Create a feature branch, make edits there, push up for review and mergin if approved. 
 
 ## Credits
 
@@ -94,9 +96,9 @@ server msut be talking to active db
 
 Github: https://github.com/shyanrafer
 <br/><br/>
-Project repo: https://github.com/shyanrafer
+Project repo: https://github.com/shyanrafer/e-commerce-assignment
 <br/><br/>
-Captured video: 
+Captured video: https://drive.google.com/file/d/1w-KNvcYqcTwzJJNZxsKDRzkstZACGlK9/view
 <br/><br/>
 Email (preferred method of contact): 
 ```md
@@ -104,3 +106,4 @@ ryanshaffer1324@gmail.com
 ```
 
 ## Screenshots
+no screen shots as i was unable to finish the assignment by due date.
