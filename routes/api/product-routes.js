@@ -48,7 +48,7 @@ router.get('/:id', async (req, res) => {
           attributes: ['tag_id', 'tag_name']
         }
         ]
-    })
+    });
     if (!oneProd) {
       return res.status(404).json({ message: 'Product not found' });
   }
